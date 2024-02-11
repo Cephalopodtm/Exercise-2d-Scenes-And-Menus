@@ -16,7 +16,7 @@ Background is from Jeremy Perkins on https://unsplash.com/photos/photography-of-
 
 
 ## References
-None
+Exercise 02d used as a base, in order to make it so each exercise that was already completed would not need to be redone entirely from the ground up on a new project.
 
 ## Future Development
 N/A
