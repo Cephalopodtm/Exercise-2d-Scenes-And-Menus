@@ -1,6 +1,6 @@
-# Exercise-2d-Scenes-And-Menus
+# Project02-Space Shooter
 
-Exercise for MSCH-C220
+Project for MSCH-C220
 
 A basic space-shooter arcade game, created in Unity.
 
@@ -12,12 +12,14 @@ Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extens
 
 The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet).
 
+Background is from Jeremy Perkins on https://unsplash.com/photos/photography-of-starry-sky-uhjiu8FjnsQ 
+
 
 ## References
 None
 
 ## Future Development
-Advanced features?
+N/A
 
 ## Created by
 Joseph Shriver
